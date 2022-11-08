@@ -1,0 +1,3 @@
+!gdown --id 1MpGEx2PWBtmVKydgZSyuFxoz8ds0LGQt
+
+Use this command to download dists.p file on Google colab very large file about 1.02G not recommended for devices with lower than 16 G ram
